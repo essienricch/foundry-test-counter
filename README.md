@@ -1,5 +1,9 @@
 ## Foundry
 
+# Contract Address
+
+https://sepolia-blockscout.lisk.com/address/0xCc2F1E5e2aBA70f100084F778335215aA56F6EfE
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
